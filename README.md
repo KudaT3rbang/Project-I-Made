@@ -3,7 +3,7 @@
 
 Recently I created several projects to learn about Front End Web Development. Here are some projects that I have released.
 
-## Acknowledgements
+## List
 
  - [Weather Searcher Website using OpenWeather API](https://weather-app-kudat3rbang.netlify.app/)
 
